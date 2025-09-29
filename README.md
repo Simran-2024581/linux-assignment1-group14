@@ -1,3 +1,13 @@
+course name = COMP2018- Linux System Administration
+Member names= Gursimranpreet Kaur, 
+Prakarsh sharma , Rohan
+Assignment Name= Assignment 1
+ 
+
+
+
+
+
 # Linux Assignment 1 – Template:
 This repo is just a "template" to be used by my students for the `**Linux Lab Assignment1**`.
 
